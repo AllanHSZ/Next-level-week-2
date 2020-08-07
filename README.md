@@ -1,4 +1,4 @@
-# Next level week-2
+# Next level week 2
 
 ## O que é o Next Level Week?
 
@@ -6,8 +6,8 @@ O NLW é um evento com muito código, desafios, networking e um único objetiv
 
 ### Progresso
 - Dia 1: Acelerando sua evolução 03/08/2020 :heavy_check_mark:
-- Dia 2: Olhando as oportunidades 04/08/2020 
-- Dia 3: A escolha da Stack 05/08/2020
+- Dia 2: Olhando as oportunidades 04/08/2020 :heavy_check_mark:
+- Dia 3: A escolha da Stack 05/08/2020 :heavy_check_mark: :heavy_check_mark:
 - Dia 4: Até 2 anos em 2 meses 06/08/2020
 - Dia 5: A milha extra 07/08/2020
 
